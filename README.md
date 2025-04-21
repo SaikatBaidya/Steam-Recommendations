@@ -15,16 +15,22 @@ The tech stack used is:
 1. *[Prerequisites]* - VS Code
 2. *[Installation]*
     *For the backend*
+    ```bash
     cd backend
     npm install
+    ```
 1. *[Running the Backend]*
     Create a mongoDB account. Then create a database. Then run:
+    ```bash
     npm run dev
+    ```
 2. [Running the Mobile App]
     *How to deploy the application*
     Create a render.com account. Then create a web service as shown in the video. Deploy the application.
+    ```bash
     cd mobile
     npx expo start
+    ```
     This will generate a QR code that you can scan through your expo go application
     *How to install expo go on mobile device*
     Go to your android/iphone. Install expo go from playstore/appstore.
