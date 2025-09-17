@@ -1,4 +1,4 @@
-# CS-732 Tech Demo Application
+# Video Game Recommendation Mobile App
 
 This repository contains the source code for the CS-732 Tech Demo application, which includes both a **backend API** and a **React Native mobile app**. 
 This tech demo serves as an entry into Cross platform development via React Native.
